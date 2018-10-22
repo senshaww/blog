@@ -45,7 +45,7 @@ ubuntu-18.04.1-desktop-amd64.iso
 
 将.iso中的initrd.lz、vmlinuz.efi 解压出来 与iso 一同放在C盘 或D盘根目录（必须根目录）下：
 
-打开EasyBCD,添加新条目-》NeoGrub -》安装：
+打开EasyBCD,添加新条目-》NeoGrub -》安装
 
 配置，文件内容如下：
 
@@ -96,7 +96,7 @@ sudo umount -l /isodevice
 
 https://www.linuxidc.com/Linux/2012-06/61983.htm
 
-### 增大ubuntu磁盘空间
+### Ubuntu使用Gparted工具扩大第一分区
 
 https://www.cnblogs.com/zalebool/p/5814907.html
 

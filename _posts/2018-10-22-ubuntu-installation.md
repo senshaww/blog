@@ -9,7 +9,7 @@ win7下安装ubuntu18.04双系统。
 <!-- more -->
 ## 双系统实现原理
 
-![](/assets/img/2018-10/双系统原理.jpg)
+![](/assets/img/2018-10/Dual-system-principle.jpg)
 
 ### BIOS  
 Basic Input Output System。结合英文全称来说一下，基本输入输出系统。BIOS 是开机的时候计算机执行的第一个程序，他会决定你开启电脑后的下一步工作。BIOS知道你的磁盘里哪些可以开机，并且会读取第一个扇区的MBR。
@@ -87,7 +87,7 @@ sudo umount -l /isodevice
 
 安装完之后，重启进入Windows界面，打开EasyBCD，添加Ubuntu启动项，顺便删除NeoGrub引导项,删除根目录下的iso 等三个文件：
 
-![](/assets/img/2018-10/引导界面.png)
+![](/assets/img/2018-10/Boot-interface.png)
 
 ## 一些问题
 

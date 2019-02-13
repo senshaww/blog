@@ -2,7 +2,7 @@
 layout: post
 title: python中mongdb的基本使用
 toc: true
-cover: /img/cover/2.jpg
+cover: 
 tags: ['python','mongdb','pymongo']
 ---
 包括简单的增删改查和一些高级查询。

@@ -2,7 +2,7 @@
 layout: post
 title: 正则表达式的基本使用
 toc: true
-cover: /img/cover/1.jpg
+cover: 
 tags: ['正则表达式','python']
 ---
 

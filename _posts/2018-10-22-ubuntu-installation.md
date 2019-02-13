@@ -2,7 +2,7 @@
 layout: post
 title: win7下安装ubuntu
 toc: true
-cover: /img/cover/3.jpg
+cover: 
 tags: ['ubuntu']
 ---
 win7下安装ubuntu18.04双系统。
